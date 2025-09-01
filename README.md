@@ -1,3 +1,4 @@
+**Name:** Prashanth K  **Reg No:** 212223230152
 
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
